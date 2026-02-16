@@ -1,6 +1,6 @@
 # About
 ___
-<h2 align="left">Hi 👋! My name is Saksham and I'm a AI Engineer  from India</h2>
+<h2 align="left">Hi 👋! My name is Saksham and I'm aN Engineer  from India</h2>
 
 ###
 
